@@ -3,6 +3,7 @@ package cmd
 import "testing"
 
 func TestName(t *testing.T) {
+
 	tv := TV{}
 	offButton := Button{}
 	onButton := Button{}
