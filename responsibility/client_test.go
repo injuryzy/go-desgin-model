@@ -4,7 +4,6 @@ import "testing"
 
 func TestName(t *testing.T) {
 
-	tv
 	handle := BaseHandle{}
 	handle1 := BaseHandle1{}
 
